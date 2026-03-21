@@ -73,7 +73,7 @@ npm run test:watch
 
 -  Comprehensive transaction listing
 -  Advanced filtering by date range and account
--  Pagination with mobile-friendly controls
+-  Pagination with mobile friendly controls
 -  Export functionality
 -  Responsive table/card layout
 
